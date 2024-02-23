@@ -11,8 +11,8 @@ The dataset contains the below attributes:-
 + author: author of the news article
 + text: the text of the article; could be incomplete
 + label: a label that marks the article as potentially unreliable
-+   1: unreliable
-+   0: reliable
+  + 1: unreliable
+  + 0: reliable
 
 ## Data Preprocessing
 I used the below data preprocessing techniques:-
